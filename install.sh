@@ -27,7 +27,7 @@ function bootstrap() {
 
   if ! command -v nvim &>/dev/null; then
     brew update && brew install neovim
-    gem install neovim
+    sudo gem install neovim
     pip3 install --user --upgrade neovim
   fi
 
@@ -105,3 +105,4 @@ config_vim
 config_tmux
 config_ctags
 config_fzf
+
