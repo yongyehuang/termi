@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b87b9f-736b-41c8-bee2-7a245b3cf40c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +49,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -104,10 +107,14 @@
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="464" y="131" key="CommitChangelistDialog2/0.23.1792.1034@0.23.1792.1034" timestamp="1602423406158" />
-    <state x="100" y="123" width="1592" height="834" key="DiffContextDialog" timestamp="1602423226534">
+    <state x="147" y="88" width="1592" height="834" key="DiffContextDialog" timestamp="1602424061325">
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
-    <state x="100" y="123" width="1592" height="834" key="DiffContextDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1602423226534" />
+    <state x="147" y="88" width="1592" height="834" key="DiffContextDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1602424061325" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1602423968302">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1792.1034@0.23.1792.1034" timestamp="1602423968302" />
     <state x="713" y="436" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602422954139">
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
