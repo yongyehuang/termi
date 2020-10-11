@@ -27,7 +27,8 @@ function bootstrap() {
 
   if ! command -v nvim &>/dev/null; then
     brew update && brew install neovim
-    sudo gem install neovim
+    # sudo gem install neovim
+    gem install neovim
     pip3 install --user --upgrade neovim
   fi
 
@@ -71,6 +72,7 @@ function config_vim() {
   ln -sf ${TERMI_ROOT}/nvim ${XDG_CONFIG_HOME}
 
   # Install vim-plug as plugin manager
+  # 可能需要修改 host 199.232.28.133 raw.githubusercontent.com
   curl -fLo ${XDG_CONFIG_HOME}/nvim/autoload/plug.vim --create-dirs \
         https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim \
 
